@@ -7,10 +7,7 @@ This project is a web application for validating SSCC (Serial Shipping Container
 Before you begin, ensure you have the following installed on your machine:
 
 - [Docker](https://www.docker.com/get-started) (for containerization)
-- [Docker Compose](https://docs.docker.com/compose/) (for managing multi-container applications)
-- [Node.js](https://nodejs.org/) (for building the frontend)
-- [Angular CLI](https://angular.io/cli) (for running the Angular application)
-
+  
 ## Project Structure
 ```
 /DACHSER
