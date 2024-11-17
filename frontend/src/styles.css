@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+
+/* Set the background color for the entire page */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #ffeb3b; 
+    font-family: Arial, sans-serif; 
+    display: flex;
+    justify-content: center;
+}
