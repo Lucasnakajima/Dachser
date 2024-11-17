@@ -82,3 +82,5 @@ This command will stop and remove all the containers created by Docker Compose.
 
 - The backend service uses PostgreSQL as the database to store SSCC validation records.
 - The frontend is built using Angular and communicates with the backend via HTTP requests.
+- Here it is the UML Diagram of the application
+![UML Diagram](https://github.com/Lucasnakajima/Dachser/blob/main/UML-DIAGRAM.png)
